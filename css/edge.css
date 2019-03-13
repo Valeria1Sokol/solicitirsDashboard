@@ -1,0 +1,34 @@
+.clickA {
+    background-color: #00a54a;
+    color: white!important;
+    border: 1px solid #00a54a;
+    font-weight: 500!important;
+}
+.chartLine {
+    top: -185px;
+    left: 20px;
+}
+.eje-x li:last-child {
+        width: 9.9vw;
+    text-align: right;
+    padding: 0 1.15vw 0 0;
+}
+
+@media all and (max-width: 1600px) {
+    .chartLine {
+    top: -140px;
+    left: 20px;
+}
+}
+@media all and (max-width: 1440px) {
+    .chartLine {
+    top: -114px;
+    left: 20px;
+}
+}
+@media all and (max-width: 1024px) {
+    .chartLine {
+    top: -58px;
+    left: 20px;
+}
+}

@@ -1,0 +1,144 @@
+@media all and (max-width: 1920px) {}
+
+@media all and (max-width: 1600px) {
+    .eje-x li:last-child {
+        width: 9.9vw;
+    }
+    [class^='eje-'] {
+        padding-top: 0px;
+    }
+    .privateFeedback {
+        height: 7.2vw;
+    }
+    .allStars span {
+        margin: 0px;
+    }
+    .base {
+        margin-top: 1.2vw;
+    }
+    .through div span {
+        height: 1.25vw;
+    }
+    .activeImgNone {
+        position: absolute;
+        margin-left: -30px;
+        margin-top: -3px;
+        display: none;
+        width: 1.2vw;
+        height: 1.25vw;
+    }
+    .experience {
+        height: 16vw;
+    }
+
+    .chartLine {
+    top: -177px;
+    left: 20px;
+}
+}
+
+@media all and (max-width: 1440px) {
+    .eje-y li {
+        height: 2.46vw;
+    }
+    .eje-x li:last-child {
+        width: 9.5vw;
+    }
+    .formTwo {
+        height: 16vw;
+    }
+    .slider button {
+        font-size: 0.9vw;
+    }
+    .base {
+        margin-top: 1.6vw;
+    }
+    .activeImgNone {
+        position: absolute;
+        margin-left: -24px;
+        margin-top: -3px;
+        display: none;
+        width: 1.2vw;
+        height: 1.25vw;
+    }
+    .chartLine {
+    top: -151px;
+    left: 17px;
+}
+}
+
+@media all and (max-width: 1024px) {
+    .eje-x li:last-child {
+        width: 8.3vw;
+    }
+    .eje-x li {
+        width: 7.6vw;
+        float: left;
+        font-size: 0.84vw;
+        padding: 0 27px 0 0;
+        text-align: center;
+        position: relative;
+        top: -7px;
+    }
+    .eje-x {
+        height: 0.6rem;
+        background-color: white;
+        margin: 0 0.5vw 0 0;
+        width: 48vw;
+    }
+    .eje-x li:first-child {
+        width: 5vw;
+        text-align: left;
+        left: -22px;
+    }
+    .slider button {
+        width: 1.7vw;
+        height: 1.5vw;
+    }
+    .base {
+        margin-top: 2.6vw;
+    }
+    .allStars .fa {
+        width: 0.95vw;
+        height: 0.97vw;
+        border: none;
+        outline: none;
+    }
+    .starText p {
+        margin: 7px 0 2px;
+    }
+    .reccomend,
+    .valueForMoney,
+    .named {
+        height: 14.3vw;
+    }
+    .named {
+        justify-content: center;
+    }
+    .through div span {
+        height: 1.55vw;
+        width: 6.4vw;
+    }
+    .activeImgNone {
+        position: absolute;
+        margin-left: -18px;
+        margin-top: -3px;
+        display: none;
+        width: 1.5vw;
+        height: 1.55vw;
+    }
+    .animateA {
+        padding: 3px 1.05vw 16px;
+        margin: 3px 0.65vw 5px 0;
+    }
+    .experience {
+        height: 17vw;
+    }
+    .chartLine {
+    top: -95px;
+    left: -1px;
+}
+    [class^='eje-'] {
+    margin-left: -0.6vw;
+}
+}
